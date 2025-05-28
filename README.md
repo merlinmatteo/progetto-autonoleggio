@@ -30,16 +30,36 @@ Applicazione web sviluppata in PHP, HTML/CSS e MySQL con:
 
 ## 📸 Screenshot
 
+Patina di index:
 ![progetto-autonoleggio](img/index.png)
-![progetto-autonoleggio](img/showroom.png)
-![progetto-autonoleggio](img/login.png)
-![progetto-autonoleggio](img/registrazione.png)
-![progetto-autonoleggio](img/admin.png)
-![progetto-autonoleggio](img/admin2.png)
-![progetto-autonoleggio](img/admin3.png)
-![progetto-autonoleggio](img/admin4.png)
-![progetto-autonoleggio](img/utente.png)
-![progetto-autonoleggio](img/utente2.png)
-![progetto-autonoleggio](img/utente3.png)
 
+Pagina di showroom con accesso libero:
+![progetto-autonoleggio](img/showroom.png)
+
+Pagina di Login:
+![progetto-autonoleggio](img/login.png)
+
+Pagina di registrazione nuovo cliente:
+![progetto-autonoleggio](img/registrazione.png)
+
+Pagina iniziale per itenti Admin:
+![progetto-autonoleggio](img/admin.png)
+
+Reparto Admin-:
+![progetto-autonoleggio](img/admin2.png)
+
+Reparto Admin-:
+![progetto-autonoleggio](img/admin3.png)
+
+Reparto Admin-:
+![progetto-autonoleggio](img/admin4.png)
+
+Pagina di showroom con accesso come client:
+![progetto-autonoleggio](img/utente.png)
+
+ Reparto Client-:
+![progetto-autonoleggio](img/utente2.png)
+
+Reparto Client-:
+![progetto-autonoleggio](img/utente3.png)
 
