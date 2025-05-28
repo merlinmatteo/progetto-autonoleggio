@@ -30,6 +30,6 @@ Applicazione web sviluppata in PHP, HTML/CSS e MySQL con:
 
 ## 📸 Screenshot
 
-![progetto-autonoleggio](img/index.PNG)
+![progetto-autonoleggio](img/index.png)
 
 
