@@ -1,5 +1,9 @@
 # 🚗 Merlin AutoNoleggio
 
+## 👨‍💻 Autore
+
+**Matteo Merlin – 5°N Informatica e Telecomunicazioni – A.S. 2024/25**
+
 > Progetto scolastico completo per la gestione di un autonoleggio online.
 
 ## 🧾 Descrizione
@@ -8,7 +12,7 @@ Applicazione web sviluppata in PHP, HTML/CSS e MySQL con:
 - Area pubblica per visualizzazione auto
 - Registrazione/login utenti
 - Prenotazione auto online
-- Pannello di controllo per amministratori
+- Pannello di controllo per amministratori con le funzioni associate
 
 ## 📁 Struttura
 
@@ -37,6 +41,3 @@ Applicazione web sviluppata in PHP, HTML/CSS e MySQL con:
 ![alt text](image-8.png)
 
 
-## 👨‍💻 Autore
-
-**Matteo Merlin – 5°N Informatica e Telecomunicazioni – A.S. 2024/25**
