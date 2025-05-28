@@ -30,6 +30,7 @@ Applicazione web sviluppata in PHP, HTML/CSS e MySQL con:
 
 ## 📸 Screenshot
 
+![img](admin.png)
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
