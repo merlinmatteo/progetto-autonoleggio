@@ -45,21 +45,22 @@ Pagina di registrazione nuovo cliente:
 Pagina iniziale per itenti Admin:
 ![progetto-autonoleggio](img/admin.png)
 
-Reparto Admin-:
+Reparto Admin-Aggiungi Auto:
 ![progetto-autonoleggio](img/admin2.png)
 
-Reparto Admin-:
+Reparto Admin-Modifica Auto:
 ![progetto-autonoleggio](img/admin3.png)
 
-Reparto Admin-:
+Reparto Admin-Visualizzazione Auto Prenotate:
 ![progetto-autonoleggio](img/admin4.png)
+
 
 Pagina di showroom con accesso come client:
 ![progetto-autonoleggio](img/utente.png)
 
- Reparto Client-:
+ Reparto Client-Visualizza Proprie Prenotazioni:
 ![progetto-autonoleggio](img/utente2.png)
 
-Reparto Client-:
+Reparto Client-Nuova Prenotazione:
 ![progetto-autonoleggio](img/utente3.png)
 
